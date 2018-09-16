@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">My andriod and git</string>
+    <string name="button">Test</string>
+    <string name="button1">TestButton</string>
+    <string name="button2">TestButton</string>
+    <string name="button3">TestButton</string>
+    <string name="button4">TestButton</string>
+    <string name="sumbitb">TestButton</string>
+</resources>
